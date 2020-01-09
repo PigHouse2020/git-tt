@@ -16,3 +16,5 @@ k=k+1;
 
 # 목요일 할 일
 - [ ] GitHub web Test
+
+# fix issue1
